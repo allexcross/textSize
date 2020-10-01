@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">ChangeLanguage_and_margin</string>
+    <string name="okBtn" translatable="false">Ok</string>
+    <string name="textLanguage">Включен режим русского языка</string>
+    <string name="tostLanguage">Вы выбрали режим русского языка</string>
+    <string name="change_language_prompt">Выбор языка:</string>
+    <string-array name="change_language_array">
+        <item name="russian_language">русский</item>
+        <item name="english_language">английский</item>
+    </string-array>
+    <string name="size_margin">Выберете размер отступа</string>
+    <string-array name="change_textMargin_array">
+        <item name="big_text">большой</item>
+        <item name="medium_text">средний</item>
+        <item name="small_text">маленький</item>
+    </string-array>
+</resources>
